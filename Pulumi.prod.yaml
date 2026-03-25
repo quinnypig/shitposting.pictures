@@ -1,6 +1,0 @@
-config:
-  aws:account: "024196225137"
-  aws:accountnamne: shitposting
-  aws:region: us-west-2
-  screenshots-cquinn:pathToWebsiteContents: www
-  screenshots-cquinn:targetDomain: shitposting.pictures

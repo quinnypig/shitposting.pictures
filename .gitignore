@@ -1,2 +1,7 @@
-*.pyc
-venv/
+node_modules/
+dist/
+cdk.out/
+*.js
+!eslint.config.mjs
+*.d.ts
+.DS_Store
